@@ -1,4 +1,5 @@
 Created new file.
 This is my first git file.
-Just adding a line for second commit.
+Just adding a line for second commit....
 Added to new branch.
+Adding second line.
