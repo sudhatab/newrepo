@@ -1,6 +1,4 @@
 Created new file.
-This is my second git file.
-:wq
-[A[3~[3~[3~[C[C[C:wq
-[A[3~[3~[C::wq
-[A[C
+This is my first git file.
+Just adding a line for second commit.
+
