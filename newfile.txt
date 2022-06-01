@@ -1,0 +1,6 @@
+Created new file.
+This is my second git file.
+:wq
+[A[3~[3~[3~[C[C[C:wq
+[A[3~[3~[C::wq
+[A[C
